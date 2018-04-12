@@ -17,3 +17,5 @@ void main () {
         stderr.printf ("I guess something is not working...\n");
     }
 }
+//valac --thread --pkg libsoup-2.4 --pkg json-glib-1.0 12.vala
+
